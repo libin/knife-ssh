@@ -21,6 +21,6 @@ In your .chef/knife.rb, add:
 
 ## Dependency
 
-Panit
+Paint
 
     gem install paint
